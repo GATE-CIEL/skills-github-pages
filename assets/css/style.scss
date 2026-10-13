@@ -1,0 +1,13 @@
+---
+---
+@import "{{ site.theme }}";
+
+// Tes modifications CSS personnalisées commencent ici :
+a {
+  color: #00ff66 !important; // Vert terminal pour les liens
+}
+
+code {
+  background-color: #222 !important;
+  color: #ff007f !important; // Rose/Violet pour le code en ligne
+}
