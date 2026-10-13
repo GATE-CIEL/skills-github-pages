@@ -8,7 +8,8 @@ Bienvenue sur mon espace de suivi de projets. Ce site me sert à documenter mes 
 *   **Description :** Prise en main de Git local, création de menus interactifs en C++, gestion des conflits de fusion (merge conflicts) et synchronisation avec GitHub.
 *   **Technologies :** C++, Visual Studio 2022, Git, GitHub Actions.
 *   **Statut :** Terminé et validé.
-*   **Code source :** [Lien vers mon dépôt MesPremiersProg](https://github.com/GATE-CIEL/MesPremiersProg) *(À adapter avec ton vrai lien)*
+*   **Compte-rendu :** [Lire mon article détaillé sur ce TP](./tp-git.html) 👈 *Nouveau lien !*
+*   **Code source :** [Lien vers mon dépôt MesPremiersProg](https://github.com/GATE-CIEL/MesPremiersProg)
 
 ### [TP] Algorithmes et Fonctions en C++
 *   **Description :** Structure de fichiers séparés (`.h` / `.cpp`), calcul de dichotomie pour les jeux de devinette et analyse de complexité/performance.
