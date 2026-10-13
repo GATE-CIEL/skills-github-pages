@@ -8,7 +8,7 @@ Bienvenue sur mon espace de suivi de projets. Ce site me sert à documenter mes 
 *   **Description :** Prise en main de Git local, création de menus interactifs en C++, gestion des conflits de fusion (merge conflicts) et synchronisation avec GitHub.
 *   **Technologies :** C++, Visual Studio 2022, Git, GitHub Actions.
 *   **Statut :** Terminé et validé.
-*   **Code source :** [Lien vers mon dépôt MesPremiersProg](https://github.com) *(À adapter avec ton vrai lien)*
+*   **Code source :** [Lien vers mon dépôt MesPremiersProg](https://github.com/GATE-CIEL/MesPremiersProg) *(À adapter avec ton vrai lien)*
 
 ### [TP] Algorithmes et Fonctions en C++
 *   **Description :** Structure de fichiers séparés (`.h` / `.cpp`), calcul de dichotomie pour les jeux de devinette et analyse de complexité/performance.
@@ -21,8 +21,8 @@ Bienvenue sur mon espace de suivi de projets. Ce site me sert à documenter mes 
 
 Au quotidien en labo, j'utilise ces outils :
 *   **IDE :** Visual Studio 2022 / VS Code
-*   **OS :** Windows 10/11 (Machines du lycée) & Linux (Debian/Ubuntu pour les TP réseaux)
-*   **Matériel informatique :** PC Labo, cartes de développement embarquées (STMicroelectronics / Arduino)
+*   **OS :** Windows 10 (Machines du lycée) & Linux (KUbuntu pour mon ordinateur personnel)
+*   **Matériel informatique :** PC Labo, cartes de développement embarquées (ESP32 / Arduino)
 
 ---
 *Dernière mise à jour : Octobre 2026*
